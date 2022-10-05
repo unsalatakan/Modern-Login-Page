@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="welcome">Hoş Geldin</string>
+    <string name="skip_for_now">Şimdilik geç</string>
+    <string name="e_mail">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="or">ya da</string>
+</resources>
